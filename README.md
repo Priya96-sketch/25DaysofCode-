@@ -2,7 +2,10 @@
 
 **Priya Mondal**  
 *Product Designer* 
-*This Challenge's main purpose is to increase my consistency &amp; Habit growing and building my Fundamentals and Knowledge in Coding.*
+
+***This Challenge's main purpose is to increase my consistency &amp; Habit growing and building my Fundamentals and Knowledge in Coding.***
+
+## Timeline
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
@@ -22,3 +25,17 @@
 |Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
 |||Train CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/LYGNNdo)|
 |||TV CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/RwraKxV)
+|Day 14|June 12, 2020| Panda CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/JjGXZZx)|
+|Day 15|June 13, 2020| Jumping Dots CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBbNRvb)|
+|Day 16|June 14, 2020| Birthday Cake CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/MWKePJJ)|
+|Day 17|June 15, 2020| GitHub Future Maintainer's Award :star_struck:	| [View List](https://drive.google.com/file/d/1Rf9qwGklmIeM8R1yR20SiiAAo5Ntv19M/view?usp=sharing)|
+|Day 18|June 16, 2020| Preparing for final viva | :grin:|
+|Day 19|June 17, 2020|  *No-Code Day*| :face_with_thermometer:|
+|Day 20|June 18, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
+|Day 21|June 19, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
+||| Python Web Scraping | |
+|Day 22|June 20, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
+||| Python Web Scraping | |
+|Day 23|June 21, 2020| Event **Coderantine** completed | Event Over :white_check_mark: |                     
+|Day 24|June 22, 2020| Solar Eclipse CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/rNxyZaJ)|   
+|Day 25|June 23, 2020| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
